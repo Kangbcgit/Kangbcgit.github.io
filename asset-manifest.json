@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.31c23096.css",
-    "main.js": "/static/js/main.dc45a188.js",
-    "static/js/787.241534ed.chunk.js": "/static/js/787.241534ed.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.31c23096.css.map": "/static/css/main.31c23096.css.map",
-    "main.dc45a188.js.map": "/static/js/main.dc45a188.js.map",
-    "787.241534ed.chunk.js.map": "/static/js/787.241534ed.chunk.js.map"
+    "main.css": "/personalProjectIKEAverReact/static/css/main.7c343634.css",
+    "main.js": "/personalProjectIKEAverReact/static/js/main.56bd997f.js",
+    "static/js/787.5211c94c.chunk.js": "/personalProjectIKEAverReact/static/js/787.5211c94c.chunk.js",
+    "static/media/KakaoSmall-Light.woff2": "/personalProjectIKEAverReact/static/media/KakaoSmall-Light.ef99f33d2533a0f37ac8.woff2",
+    "static/media/KakaoBig-Bold.woff2": "/personalProjectIKEAverReact/static/media/KakaoBig-Bold.335a95ebe97faa2d1e6d.woff2",
+    "index.html": "/personalProjectIKEAverReact/index.html",
+    "main.7c343634.css.map": "/personalProjectIKEAverReact/static/css/main.7c343634.css.map",
+    "main.56bd997f.js.map": "/personalProjectIKEAverReact/static/js/main.56bd997f.js.map",
+    "787.5211c94c.chunk.js.map": "/personalProjectIKEAverReact/static/js/787.5211c94c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31c23096.css",
-    "static/js/main.dc45a188.js"
+    "static/css/main.7c343634.css",
+    "static/js/main.56bd997f.js"
   ]
 }
